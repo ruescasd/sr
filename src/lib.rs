@@ -1,1 +1,1 @@
-pub mod ascent;
+pub mod dkg;
